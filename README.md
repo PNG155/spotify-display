@@ -4,5 +4,5 @@
 
 I'm doing this project to learn 3D modeling and soldering, skills I'm not very familiar with. I also want to build the Spotify Display because it's a cool project.</h4>
 
-<img src="[C:\Users\CASA\OneDrive\Desktop\opera_yGKWad9xep.png](https://github.com/PNG155/spotify-display/blob/main/case.png)" alt="case">
+<img src="[[C:\Users\CASA\OneDrive\Desktop\opera_yGKWad9xep.png](https://github.com/PNG155/spotify-display/blob/main/case.png)](https://github.com/PNG155/spotify-display/blob/6e5e6fe36bb5061c793675cbdfc2a9cc052758d6/case.png)" alt="case">
 <img src="C:\Users\CASA\OneDrive\Desktop\opera_yGKWad9xep.png" alt="case">
