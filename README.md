@@ -13,4 +13,4 @@ I'm doing this project to learn 3D modeling and soldering, skills I'm not very f
 1x ESP32 Board
 1x 1.8" TFT display 
 3x Tactile switches 
-4x M3 Heatset inserts</h4>
+</h4>
